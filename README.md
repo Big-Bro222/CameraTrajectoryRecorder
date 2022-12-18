@@ -1,4 +1,4 @@
-#Functions
+# Functions
 
 - A camera that is always looking at some target object (a simple cube).
 - That camera could rotate around this cube at a constant radius in all directions (on the surface of an imaginary sphere).
