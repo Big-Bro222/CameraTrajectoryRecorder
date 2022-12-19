@@ -6,3 +6,5 @@
 - Save multiple trajectory data(.tra) to the Persistent DataPath and a default example file inside the StreamAssets Folder
 - Load with dropdown selection and play recorded camera movement 
 - Show loaded trajectory in Editor at Runtime
+
+### Note: For UI layout, any portrait orientation Under Android or IOS platform should work just fine. 
